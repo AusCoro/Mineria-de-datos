@@ -1,0 +1,47 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 2 ISSUE 2
+
+PEER-REVIEWED PAPER
+Martin Frické
+University of Arizona
+
+Classification, Facets, and 
+Metaproperties
+
+ABSTRACT
+The paper argues that second order properties or metaproperties are essential  
+for classification and navigation of information, for example for faceted  
+classification and the navigation it generates. The paper observes that  
+metaproperties, are not accommodated well within such standard schemes as  
+Z39.19, description logics (DLs), and the formal ontologies OWL, BFO, and  
+DOLCE.
+INTRODUCTION
+Information needs to be classified for the purposes of searching, browsing, 
+and berrypicking (Bates, 1989). Considerable progress can be made with this 
+by using just the notions of particular (or item or instance or token), property 
+(or universal or concept or type), and the relations ‘is a subtype of’, ‘is an 
+instance   of’,   and   ‘is   a   part   of’.   This   paper   centers   on   the   relation   ‘is   an 
+instance   of’.   Existing   approaches   make   extensive   use   of   this   relation.   But 
+typically they do so only for the case where it is particulars or items or tokens 
+that   are   instances   of   the  types.   This   amounts   to   applying  a   property   (the 
+type) to an item. As such, this is a case of  first order instantiation  or the 
+application   of  first   order   properties.   But   this   is   not   the   only   kind   of 
+instantiation   there   is.   First   order   types   themselves   can   have   properties 
+applied to them; when they do, these are cases of second order instantiation 
+or the application of second order properties for example, the property ‘being 
+a tiger’ itself has the property of ‘being a species’, so tiger is an instance of 
+the second order type species (notice the syntax here, ‘tiger is an instance of 
+species’ not ‘a tiger is an instance of species’). (There can be yet higher order 
+properties, but they are not of immediate interest in this paper.) 
+
+Sometimes   the   word   ‘metaproperties’   is   used   to   signify   second-order 
+properties. On those relatively rare occasions when information scientists and 
+web-site designers want to discuss properties of, or about, properties, they 
+will   sometimes   call   these   ‘metaproperties’.   (Typically   philosophers   and 
+logicians  would  not  talk  in  this  way,  although  they  would   have  no trouble 
+understanding what was being said when others did so.) 
+
+JOURNALOFIA.ORG | ISSN 1903-7260
+
+43
+
+

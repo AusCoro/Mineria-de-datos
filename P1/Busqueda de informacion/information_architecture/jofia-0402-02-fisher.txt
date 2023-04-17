@@ -1,0 +1,37 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 4 ISSUES 1 – 2
+
+PEER-REVIEWED
+
+Jon Fisher
+Nomensa
+Simon Norris
+Nomensa
+Elizabeth Buie
+Luminanze Consulting
+
+Sense-making in Cross-channel Design
+ABSTRACT
+Successful cross-channel user experiences rely upon a strong informational layer that creates 
+understanding amongst users of a service. This pervasive information layer helps users form 
+conceptual models about how the overall experience works (irrespective of the channel in  
+which they reside). This paper explores the early development of a practical framework for the  
+creation of meaningful cross-channel information architectures or “architectures of meaning“. 
+We explore the strategic roles that individual channels can play as well as the different factors  
+that can degrade a user‘s understanding within a cross-channel user experience. 
+WHY NOW?
+The pace and delivery of ubiquitous computing, whilst increasing year on year, has (in 
+our opinion) yet to result in significant, commercially successful pervasive technologies 
+within the home, office or wider world. However within commercial digital user 
+experience (Hassenzahl, 2013) design teams, the last 5 years have seen the explosion of 
+service delivery across four common channels: web, mobile, tablet, physical space (e.g. 
+retail outlets). One obvious reason for this explosion in cross-channel service delivery is 
+the continuing development and success of the smart phone.
+One industry that could potentially be revolutionized through effective cross-channel 
+design is retail. Greg Satall  (2012)  on the Innovation Excellence blog highlights the 
+“slow crawl of e-commerce” over the last 15 years. Satall points out that although some 
+estimates of e-commerce (as a percentage of total retail) are as high as 9%, shopping is 
+still primarily an activity conducted in the physical and not digital world. 
+
+5
+
+

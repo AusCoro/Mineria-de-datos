@@ -1,0 +1,43 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 3 ISSUE 2
+
+REPRINT
+Andrea Resmini
+University of Borås
+Luca Rosati
+Information architect
+
+A Brief History of Information Architecture
+This article is a reprint of parts of Chapter 2, “Towards a Pervasive Information Architecture”, from 
+Andrea Resmini and Luca Rosati's “Pervasive Information Architecture”, a book published by Morgan 
+Kauffman. The text was partially edited for clarity by the authors. The Journal would like to thank 
+Morgan Kauffman for consenting to the reprint. All rights remain the property of the original right 
+holders.
+
+The metaphors we use constantly in our everyday language profoundly influence what we 
+do because they shape our understanding. They help us describe and explore new ideas in 
+terms and concepts found in more familiar domains. 
+Earl Morrogh, Information Architecture: An Emerging 21st Century Profession, 2003
+
+Information architecture (IA) is a professional practice and field of studies focused on 
+solving the basic problems of accessing, and using, the vast amounts of information 
+available today. You commonly hear of information architecture in connection with 
+the  design  of   web   sites  both   large   and  small,   and  when  wireframes,   labels,   and 
+taxonomies are discussed. As it is today, it is mainly a production activity, a craft, and it 
+relies on an inductive process and a set, or many sets, of guidelines, best practices, and 
+personal and professional expertise. In other words, information architecture is arguably 
+not a science but, very much like say industrial design, an applied art.
+Even though its modern use, strictly related to the design of information, goes back no 
+farther   than   the   mid-1970s   and   Richard   Saul   Wurman’s   famous   address   at   the 
+American Institute of Architecture conference of 1976, use of the term information 
+together with the term architecture1, has been around for a little bit longer and in quite 
+
+1
+
+It must be remembered that Wurman wrote an article with Joel Katz entitled “Beyond Graphics: The Architecture of 
+Information,” which was published by the AIA Journal in 1975. In an interview with Dirk Knemeyer in 2004, Wurman 
+said: “The common term then was ‘information design.’ What got confusing was information design and interior design and 
+industrial design, at that moment and still today in many and most people’s minds, are about making something look good. 
+
+33
+
+

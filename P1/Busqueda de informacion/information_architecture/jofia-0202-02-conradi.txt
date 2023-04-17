@@ -1,0 +1,51 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 2 ISSUE 2
+
+PEER-REVIEWED PAPER
+Elise Conradi
+
+to_be_classified
+A Facet Analysis of a Folksonomy
+
+ABSTRACT
+This paper examines the use of the postulational approach to facet analysis to  
+manually induce a faceted classification ontology from a folksonomy. An in-depth 
+study of faceted classification theory is used to form a methodology based on the  
+postulational approach, which is then used to facet analyze a dataset consisting  
+of over 107,000 instances of 1,275 unique tags representing 76 popular non-
+fiction history books collected from the LibraryThing folksonomy. Preliminary  
+results of the facet analysis indicate the manual inducement of two faceted  
+classification ontologies in the dataset: a completed ontology representing the  
+domain of books and an incomplete ontology representing the domain of subjects  
+within the domain of books. The grouping of tags into theoretically based facets  
+and conceptual categories give new insight into how users describe information  
+resources. Furthermore, the relationships discerned in the ontologies are user-
+generated relationships between tagged information items, representing a new  
+form of knowledge. Practical implications of the results are discussed in terms of  
+potential areas in which user-generated metadata can enhance faceted  
+structures in information architecture. 
+FOLKSONOMIES: UNSTRUCTURED “WISDOM OF THE CROWD” 
+Since their inception on the web in 2003 with the tagging system Del.icio.us 1, 
+folksonomies   have   become   a   popular   way   to   categorize   large   amounts   of 
+information resources. Folksonomies emerge from the aggregation of textual 
+labels   called   tags   that   are   affixed   to   digital   objects   of   various   formats   by 
+either   the   creator   or   the   users   of   the   objects   within   sites   that   allow   for 
+tagging.  Vander  Wal (2005)  distinguishes  between  broad  folksonomies  and 
+narrow folksonomies, explaining that a “broad folksonomy has many people 
+tagging   the   same   object”   whereas   in   a   narrow   folksonomy,   an   object   is 
+tagged “by one or a few people.” 
+
+Quintarelli (2005) discusses broad folksonomies in terms of the Power Law 
+distribution, stating that the “power law reveals that many people agree on 
+using a few popular tags but also that smaller groups often prefer less known 
+terms to describe their items of interest.” Halpin et al. (2007) argue that the 
+short   head   of   the   long   tail   in   the   Power   Law   distribution   represents   a 
+consensus of what users find to be most important about each information 
+resource. The study of folksonomies can therefore provide invaluable insight 
+
+1 http://del.icio.us
+
+JOURNALOFIA.ORG | ISSN 1903-7260
+
+5
+
+

@@ -1,0 +1,38 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 4 ISSUES 1 – 2
+
+PEER-REVIEWED
+
+Fredrik Ohlin
+Malmö University
+
+The Role of Information Architecture in 
+Context-Aware Adaptive Systems
+
+ABSTRACT
+Information architecture, concerned with the structural design of information spaces/systems,  
+and context-aware adaptive systems, supporting situated system use through a computational  
+approach, are presented as two converging fields. Specific points of convergence include  
+balancing immediate use with awareness, tackling choice overload and promoting discovery, 
+and   dealing   with   the   increasing   complexity   of   user   context.   The   role   of   information  
+architecture can be to apply a holistic view of systems, users, and context, thereby promoting  
+awareness   and   discovery   over   of   specific   task   efficiency   measures.   Further,   designing  
+meaningful structures from large, complex sets of information, is an information architecture  
+skill well-suited for addressing the issues of context.
+INTRODUCTION
+Several research fields are concerned with creating software that somehow is beneficial 
+for people to use. Recognizing that user needs and capabilities vary by situation, 
+research into context-aware adaptive systems tries to better supports these variations. 
+However, much emphasis is put on the effectiveness and efficiency of specific tasks, and 
+not as much on longer-term support for awareness and discovery. Furthermore, the 
+complexity of user context is increasing to include not only physical context, but a 
+pervasive digital, social context as well. 
+These factors combine to introduce and emphasize certain software design challenges. 
+This paper presents three of these challenges as points of convergence between the fields 
+of context-aware adaptive systems, and information architecture. After a presentation of 
+the   design   challenges,   an   overview   of   the   computational   approaches   within 
+context-aware   adaptive   systems   is   given,   followed   by   a   discussion   of   the   role   of 
+information architecture. 
+
+29
+
+

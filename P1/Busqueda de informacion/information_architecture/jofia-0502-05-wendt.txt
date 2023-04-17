@@ -1,0 +1,40 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 5 ISSUES 1 – 2
+
+PEER-REVIEWED
+
+Thomas Wendt
+Surrounding Signifiers
+Information Cartilage
+On the Role of Information Architecture in Context-Aware Intelligent 
+Systems Design
+
+ABSTRACT
+This paper is an attempt to understand expanding information spaces from a
+phenomenological perspective. As technology continues to challenge the online/offline
+distinction, phenomenology provides a useful framework for thinking about context,
+the role of situated being, and the need for order. Artificial intelligence and context-
+aware computing are used as examples of information environments that specifically
+call out the benefits of understanding information as a bodily entity—as in a “body of
+information” or  “body of knowledge”. Concentrating on a Heideggerian approach to
+technology, which in part characterizes technology as a call for order and structure, the
+essay will examine the idea of ‘structured flexibility’ needed for systems that not only
+process information but also predict needs, shape information contexts, and actively
+engage in the user-system interaction. Finally, it will provide new ways for
+information architects to think about the expanding space of information.
+INTRODUCTION
+
+Every two days now we create as much information as we did from the dawn of 
+civilization up until 2003 (E. Schmidt)
+
+We live in a world where there is more and more information and less and less 
+meaning (J. Baudrillard, 1994)
+
+Information spaces are changing more rapidly than we can design for them. As
+context-aware   computing   and   artificial   intelligence   are   advancing   into   consumer
+markets, the need to structure information and meaning around adaptive systems has
+never been more important. The past century has seen significant variation in the ways
+that information is ordered, disordered, constructed, and broken down. Information
+
+51
+
+

@@ -1,0 +1,39 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 5 ISSUES 1 – 2
+
+PEER-REVIEWED
+
+Simon Krogh
+Copenhagen Business School
+Cloud Computing
+A Social Relations Perspective
+
+ABSTRACT
+The second half of the 20th century has been characterized by an explosive
+development in information technology (Maney, Hamm, & O'Brien, 2011). Processing
+power, storage capacity and network bandwidth have increased exponentially, resulting
+in new possibilities and shifting IT paradigms. In step with technological changes, the
+paradigmatic pendulum has swung between increased centralization on one side and a
+focus on distributed computing that pushes IT power out to end users on the other.
+With the introduction of outsourcing and cloud computing, centralization in large
+data centers is again dominating the IT scene. 
+In line with the views presented by Nicolas Carr in 2003 (Carr, 2003), it is a popular
+assumption that cloud computing will be the next utility (like water, electricity and
+gas) (Buyya, Yeo, Venugopal, Broberg, & Brandic, 2009). However, this assumption
+disregards the fact that most IT production environments, unlike water and power
+supply, are in a constant state of change driven by new demands from users and the
+desire to utilize advances in technology. Research in IT outsourcing (ITO) has
+documented that social relations play a key role in successful ITO (M. C. Lacity, Khan,
+& Willcocks, 2009), for instance, in establishing and maintaining trust between the
+involved parties (Sabherwal, 1999). So far, research in cloud computing has neglected
+this perspective and focused entirely on aspects relating to technology, economy,
+security and legal questions.
+While the core technologies of cloud computing (e.g. virtualization and workload
+balancing) are tried and tested, the consequences for IT professionals in the affected IT
+departments have not been studied in detail. Similar to Marston et al. (Marston, Li,
+Bandyopadhyay, Zhang, & Ghalsasi, 2011), this paper points to the need for studying
+the social, relational and inter-organizational challenges associated with the widespread
+introduction of cloud computing. 
+
+21
+
+

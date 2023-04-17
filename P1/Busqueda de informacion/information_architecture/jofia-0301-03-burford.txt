@@ -1,0 +1,53 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 3 ISSUE 1
+
+PEER-REVIEWED PAPER
+Sally Burford
+University of Canberra
+
+Web Information Architecture
+A Very Inclusive Practice
+
+ABSTRACT
+Web information design, or information architecture (IA), is a critical aspect of the  
+organizational use of the Web to deliver information and to communicate with  
+clients. It is a relatively new instance of information organization and, although it  
+draws from traditional practices such as library and information science, Web  
+information architecture has its own characteristics and unique contexts. The  
+practice of Web information architecture must forge its own identity. This  
+research paper contributes to a greater understanding of Web information  
+architecture as a practice that requires myriad conversations, negotiations and  
+collaborations as it is carried out in large organizations. It is also a practice that is  
+undertaken by multiple and diverse people who all make a contribution to the  
+information structures of the enterprise website.
+INTRODUCTION
+This paper reports research that is situated in a maturing era of organizational 
+use   of   the   Internet   to   inform   and   communicate.   At   the   forefront   of   an 
+organization’s use of the Internet is its official website, which represents a 
+digital information channel of increasing significance and audience demand. 
+The   corporate   website   presents   the   opportunity   for   rapid   publishing   of 
+extensive   amounts   of   information   to   a   global   audience.   From   humble 
+beginnings,   the   world   wide   Web   has   emerged   to   become   a   major 
+communicating and informing medium that every organization is compelled 
+to attend to as part of its public communication. Information structures are a 
+front on which “the struggle for commercial supremacy through information is 
+being fought” (Evernden & Evernden, 2003, p. 95). 
+
+Web IA is a term that is used to describe both the information design process 
+and the outcome of that process (Morville & Rosenfeld, 2006). Intrinsic to the 
+nature of hypertext, a website will have an information structure regardless of 
+whether an organization consciously implements a process for Web IA and 
+structures   their   Web   information   with   awareness   and   expertise.   Thus,   the 
+information structures of a website may present either an optimal information 
+space or a frustrating and unsuccessful experience for its users. 
+
+The   provision   and   structuring   of   Web   information   is   relatively   new   in 
+organizations   (Morville   &   Rosenfeld,   2006,   p.   8)   and   the   unstructured 
+information of the Web lives close to the surface of an organization’s entire 
+repository of information. Many individuals within an organization contribute 
+to  its  creation  and  ongoing   existence   (Morrogh,  2002,  p.  99).  Whilst  other 
+
+JOURNALOFIA.ORG | ISSN 1903-7260
+
+19
+
+

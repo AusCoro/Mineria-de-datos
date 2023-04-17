@@ -1,0 +1,38 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 4 ISSUES 1 – 2
+
+PEER-REVIEWED
+
+Tibor Koltay
+Szent István University
+
+Information Architecture, Information 
+Overload, and the Literacies
+
+ABSTRACT
+This   paper  places   emphasis   on   the   relationship   between  information   architecture  and 
+information overload in the light of the benefits, offered by information literacy, digital  
+literacy and other literacies, often named “new literacies”. It argues that  making use of 
+information literacy and digital literacy strategies can eliminate a substantial part of unneeded 
+information. This approach does not exclude efforts to make information findable by applying 
+principles and tools of information architecture. Information architecture, information overload,  
+information literacy and digital literacy are defined and characterized, not forgetting about the  
+differences and commonalities between them. Information ecology as a useful framework for  
+better understanding of the relationships between new media, new literacies and information 
+architecture is also brought into picture. 
+INTRODUCTION
+In this paper I am going to approach information architecture from the viewpoint of 
+the information professional. Emphasis will be placed on the relationship between 
+information architecture (IA) and information overload (IO), focusing on the benefits, 
+offered by information literacy (IL), digital literacy (DLi) and other literacies, often 
+pooled under the name of “new literacies”, first of all on account of their orientation 
+towards new informational and technological realities (Buschmann 2009). I also intend 
+to contribute to the work of building a vocabulary around the topic of information 
+overload (Davis 2012b).
+
+INFORMATION ARCHITECTURE 
+Instead of giving a comprehensive overview of information architecture’s definitions, I 
+will emphasize some of their elements. In doing this, the time when the definitions 
+
+41
+
+

@@ -1,0 +1,52 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 3 ISSUE 1
+
+INVITED PAPER
+Jorge Arango
+BootStudio
+
+Architectures
+
+(Young Egyptians), gazing through the windows of the Internet, have  
+gained a keener sense than many of their elders of the freedoms and  
+opportunities they lack. They have found in social media a way to  
+interact and share ideas, bypassing, in virtual space, the restrictions  
+placed on physical freedom of assembly.
+
+– Mohamed ElBaradei, New York Times, February 10, 2011
+
+We live in strange times. Governments are being brought down by people 
+congregating   in   “virtual   space”,   while   century-old   media   empires   are 
+crumbling as their traditional business is decimated by “digital editions”. We 
+meet with friends in Facebook, as opposed to face-to-face, and “log in” to our 
+bank in order to pay our bills. In short, it’s become clear that digital space is  
+taking over from physical space as the container for ever more of our day-to-
+day interactions with our institutions and with other people1.
+
+We implicitly perceive these digital containers of experience as spaces, as Mr. 
+ElBaradei   explains   in   the   quote   above.   Our   language   strains   with   clumsy 
+architectural metaphors such as “gazing through the windows of the Internet” 
+in order to describe the ways we inhabit and use them.
+
+Who designs these spaces? And – more importantly – are they aware that 
+they are designing space when they do so? I argue that the answer to the first 
+question should be “information architects”, and the answer to the second 
+should be “they should”.
+
+Human beings have been designing spaces to host our interactions – to stage 
+our experiences – for thousands of years2. In traditional architecture, we have 
+a  rich   field   that  can   serve   as   a  springboard   to   for  the   design   of   effective 
+information  environments.  However, much  of  the  discussion  in  the  field of 
+information   architecture   has   focused   on   linguistic   approaches   to   the 
+structuring   of   information   environments.   The   designers   of   many   of   these 
+“virtual spaces” have thus far approached these design challenges as literary 
+exercises on one extreme, and as visual design exercises on the other.
+
+1 Coward & Salingaros 2004.
+
+2 Bachelard 1969.
+
+JOURNALOFIA.ORG | ISSN 1903-7260
+
+41
+
+

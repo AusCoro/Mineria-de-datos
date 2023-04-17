@@ -1,0 +1,36 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 5 ISSUES 1 – 2
+
+PEER-REVIEWED
+
+Sally Burford
+University of Canberra
+Lisa M. Given
+Charles Stuart University
+The Practitioners of Web Information 
+Architecture in Small and Medium 
+Enterprises
+
+ABSTRACT
+This paper reports an investigation of the practice of web information architecture (IA)
+in small and medium enterprises (SMEs). As information delivery via the web becomes
+a mainstream activity in all organisations, research and practical attention to Web IA
+remains focused on larger organisations and a new profession of information architect.
+The practice of web IA in SMEs has not been widely considered. This research collects
+the narratives of those who practice Web IA in the smaller enterprise and reveals that
+the dominant voice is that of a communication and marketing practitioner, rather than
+information professional. The outcomes of practice in this context suffer from a lack of
+knowledge and expertise.
+INTRODUCTION
+As in many countries, all sectors of Australian society – from government and private
+enterprise to education and community – use the web for information delivery. The
+increasing importance of information and the growing prominence of the web as a
+platform for information provision are current and universal phenomena. Coupled with
+a strong competitive impetus to provide and effectively structure online information
+(Evernden & Evernden 2003), is the rising expectation of an organisation’s client base
+to find information on the web to support varied interactions with the organisation
+(Gunter 2008). However, web information seekers do not always encounter optimal
+design and presentation of digital information. 
+
+31
+
+

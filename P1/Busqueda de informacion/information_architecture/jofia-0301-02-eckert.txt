@@ -1,0 +1,54 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 3 ISSUE 1
+
+PEER-REVIEWED PAPER
+Jan Eckert
+IUAV University of Venice
+
+SnowSense
+A Case Study of User-centered Location-based Services
+
+ABSTRACT
+SnowSense is one of the projects at the core of the research in Information  
+Design at the IUAV University of Venice, especially dealing with the development  
+of Location Based Services (LBS). This article reports on a case study conducted  
+in cooperation with the WSL Institute for Snow and Avalanche Research SLF1 in 
+Davos, Switzerland. The project sets out to open up new ways for preventing  
+avalanche-related accidents by applying a user-centered design approach and  
+new technologies. The embracing research framework addresses the evolution of  
+LBS and how their adoption changes the way people interact with the places they  
+live, work or act in.
+INTRODUCTION
+The   fact   that   today   most   information   about   a   specific   location   is   almost 
+immediately available changes the way people approach certain locations or 
+plan relocation, such as when traveling to a foreign country. On the one hand, 
+this may decrease the quantity of information we think we have to seek out 
+before   moving   to   that   new   place;   on   the   other   hand   it   opens   up   vast 
+opportunities to access information at the right time or even generate new 
+information   that   can   be   shared   with   others.   To   information   designers,   the 
+scenario   is   an   invitation   to   investigate   how   this   information   should   be 
+structured first and distributed successfully second, to the end-users.
+
+Since many of the issues related to the subject rise from social behavior, a 
+decision was taken early in the project to look for applications that impacted 
+socially   relevant  areas.   The   objective   was   to   study  the   different   dynamics 
+between information, people, their activities, and their location. The purpose 
+was   not   to   create   just   another   location-based   service   (LBS),   but   to 
+demonstrate   that   design   applied   to   relevant   activities   may   become   more 
+relevant to other people as well. 
+
+Following up on Jorge Frascara's call to become “problem identifiers instead of 
+problem solvers” (Frascara 2006), a specific area and problem was identified 
+that could be addressed through a design process even if at a first glance it 
+did   not   seem   to   present   such   a   relevant   design   issue.   It   happened 
+nonetheless to be very close to personal interests, and socially relevant in the 
+local   context   of   the   Alps   mountain   region.   Every   year   a   high   number   of 
+
+1 The WSL Institute for Snow and Avalanche Research SLF is part of the Swiss Federal Institute for 
+
+Forest, Snow and Landscape Research WSL and is based in Davos, Switzerland.
+
+JOURNALOFIA.ORG | ISSN 1903-7260
+
+5
+
+

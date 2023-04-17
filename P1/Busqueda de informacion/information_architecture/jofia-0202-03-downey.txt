@@ -1,0 +1,50 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 2 ISSUE 2
+
+PEER-REVIEWED PAPER
+Laura Downey
+Transportation Security Administration (TSA)
+
+Sumit Banerjee
+IBM
+
+Building an Information 
+Architecture Checklist
+Encouraging and Enabling IA from Infrastructure to the 
+User Interface Architecture
+
+ABSTRACT
+Government environments often have prescribed complex processes for  
+obtaining and implementing technology solutions. In order to encourage and  
+enable information architecture (IA) in government systems, it is essential to  
+embed IA within the current processes and to view IA as part of the overall  
+architectural framework. The definition of IA used here is broad and inclusive  
+spanning applications, the Web and the enterprise. A common focus exists aimed  
+at organizing information for findability, manageability and usefulness, but the  
+definition also includes infrastructure to support organization of information. This  
+case study describes the development of an IA checklist in a large United States  
+government agency. The checklist is part of an architectural review process that  
+is applied 1) during assessment of proposed information systems projects and 2)  
+design of solution recommendations before system implementation.
+
+INTRODUCTION: DEFINING IA
+Defining IA is an exercise many researchers and practitioners have performed 
+(Zachman, 1987; Wurman, 1996; Rosenfeld, 2002; Bailey 2002, Dillon 2002, 
+Toms, 2002; Evernden & Evernden, 2003; Dillon & Turnbull, 2005; Morville & 
+Rosenfeld, 2006; Stiglich, 2007; Hinton, 2009). Rosenfeld (2002) noted that a 
+widely accepted definition of IA does not exist. Dillon & Turnbull (2005) report 
+that no formal definition of IA has been agreed upon. That still appears true 
+today. 
+
+Several definitions in the IA field generally focus on organizing information via 
+mechanisms such as labeling, structuring, chunking, and categorizing in order 
+to support navigation, findability and usefulness. Bailey’s (2002) definition of 
+IA is perhaps the simplest and most straightforward:
+
+IA   is   the   art   and   science   of   organizing   information   so   that   it   is  
+findable, manageable and useful.
+
+JOURNALOFIA.ORG | ISSN 1903-7260
+
+25
+
+

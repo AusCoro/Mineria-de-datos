@@ -1,0 +1,38 @@
+JOURNAL OF INFORMATION ARCHITECTURE | VOLUME 3 ISSUE 2
+
+VOICES FROM THE FIELD
+Raffaele Boiano1
+Fondazione Enasarco
+Ethnotelling for User-generated Experiences
+
+ABSTRACT
+This paper focuses on storytelling as a research tool for social sciences, especially for cultural 
+anthropology. After a short review of the main methodological tools traditionally used in  
+ethnography, with particular regard to observation and interview, we focus on collecting and  
+crafting stories (ethnotelling) as suitable tools for conveying the relational nature of fieldwork.  
+Drawing on the works of Orr, Chipchase, Marradi and Adwan/Bar-on, we show how stories  
+– collected, mediated or made up – are valuable tools for representing experiences and  
+identities. As a result, we suggest a different approach to user-experience design, based on the 
+creation of ‘thick’ environments enabling a whole range of possibilities, where users can  
+imagine or live their own user-generated experiences.
+
+INTRODUCTION: SHIFTS 
+The structural design of information spaces, in particular on the web, is an activity that 
+often challenges supposedly immutable notions, such as communication, relationship, 
+business, consumption. Innovations follow one another in rapid succession thanks to 
+killer RIAs (Rich Internet Applications), which makes the Web an ever-changing 
+productive and social environment. 
+If we look at the most common job titles for web professionals from a diachronic 
+perspective, we can identify a common thread among them, a trend that binds them 
+together: a shift from technology design to information design, with user experience 
+(“people”) as the ultimate object of interest. What does it mean “to design meanings and 
+experiences in information-thick worlds”, and how can we approach this task? Cultural 
+anthropology, as a holistic approach to the study of humans, and ethnography, as its 
+main heuristic tool based on a direct research experience in the field, can be regarded as 
+the best tools for providing some answers, or at least some clues, to these issues. 
+
+1 The author is grateful to Laura Giacalone for her precious comments and help in translating an early draft of the article.
+
+47
+
+
